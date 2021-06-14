@@ -1,0 +1,32 @@
+body {
+	padding: 0px;	
+}
+nav{
+	font-size: 30px;
+	color:#285473;
+	text-align: center;
+}
+.form{
+    color: #162436; 
+    font-size: 35px;
+    border-radius: 5px;
+}
+.text_style {
+	width: 400px;
+	height: auto;
+	font-weight: 400px;
+	color: #285473;
+	font-size: 20px;
+}
+.table-in{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.table-in td{
+	border: 1px solid black;
+	padding: 10px;
+}
+.table-in th{
+	border: 1px solid black;
+	padding: 10px;
+}
